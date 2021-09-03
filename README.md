@@ -2,8 +2,8 @@
 Pet project: analysis of UFO observations in USA
 
 ## Files
-* `ufo.ipynb` Jupyter notebook containing the complete analysis
-* `1_Data_collection.ipynb`, `2_Data_cleaning.ipynb`, `3_Exploratory_analysis` Jupyter notebooks with the analysis divided in sections (see below) - **will be added soon**
+* `ufo.ipynb` Jupyter notebook containing the complete analysis (it may be slightly outdated; __recent development is in separate parts__)
+* `1_Data_collection.ipynb`, `2_Data_cleaning.ipynb`, `3_Exploratory_analysis` Jupyter notebooks with the analysis divided in sections (see below)
 * `states.csv` data on the states of USA and Canada
 * `ufo_raw_date.csv` data on UFO taken from the collections by the observation date
 * `ufo_raw_shape.csv` data on UFO taken from the collections by the reported shape
